@@ -1,0 +1,58 @@
+[
+{
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+        "title": "T-shirt",
+        "slug": "t-shirt",
+        "description": "This is awesome",
+        "price": "139.99",
+        "image": "products/2672964630/2672964630.jpg",
+        "featured": false,
+        "active": true,
+        "timestamp": "2018-02-08T01:22:42.783Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+        "title": "T-shirt",
+        "slug": "t-shirt-slrc",
+        "description": "This is black color, looks nice",
+        "price": "29.99",
+        "image": "products/758219777/758219777.jpg",
+        "featured": false,
+        "active": true,
+        "timestamp": "2018-02-08T01:23:43.176Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+        "title": "Hat",
+        "slug": "hat",
+        "description": "This is black hat , which is untouchable",
+        "price": "39.99",
+        "image": "products/2765079369/2765079369.jpg",
+        "featured": true,
+        "active": true,
+        "timestamp": "2018-02-08T01:27:30.810Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+        "title": "computer",
+        "slug": "computer",
+        "description": "this is super computer",
+        "price": "2239.99",
+        "image": "products/2037685534/2037685534.jpg",
+        "featured": true,
+        "active": true,
+        "timestamp": "2018-02-08T01:42:44.220Z"
+    }
+}
+]
